@@ -2,9 +2,9 @@
 Advanced Algorithms MSU Texas
 
 ## Semeion Stafford
-#### REPO: 4663 Cryptography Repo
-#### EMAIL: semeionsta@hotmail.com
-#### WEBSITE: https://github.com/semeionj
+#### Repo: 4663 Cryptography Repo
+#### Email: semeionsta@hotmail.com
+#### Website: https://github.com/semeionj
 
 #### IMAGE:
 <img src="https://github.com/semeionj/3013-Algorithms-semeionj/blob/master/Semeion.jpg" width="200">
