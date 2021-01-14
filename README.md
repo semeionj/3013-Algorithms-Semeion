@@ -8,3 +8,4 @@ Advanced Algorithms MSU Texas
 
 #### IMAGE:
 <img src="https://github.com/semeionj/3013-Algorithms-Semeion/blob/main/_imgs/Me.jpg" width="200">
+<img src="https://github.com/semeionj/3013-Algorithms-Semeion/blob/main/_imgs/Avatar.jpg" width="200">
