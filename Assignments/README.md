@@ -1,6 +1,6 @@
 ##  Assignments Folder
 
-|   #   | Folder Link | Assignment Description |
+|   Folder   | Title | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |   03-A03    |    <a href="https://github.com/semeionj/3013-Algorithms-Semeion/tree/master/Assignments/A03 ">Assignment 3         |   Banner Page                     |
   |   04-A04    |    <a href="https://github.com/semeionj/3013-Algorithms-Semeion/tree/master/Assignments/A04 ">Assignment 4         |   Commenting C++ Code                     |
