@@ -16,4 +16,4 @@ Print program banner cover.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | HO1.md         | Resulting text banner      |
+|   1   | H01.md         | Resulting text banner      |
