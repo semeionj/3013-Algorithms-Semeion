@@ -1,0 +1,8 @@
+######################################################################
+Assignment 4 - Resizing the Stack
+CMPS 3013
+Semeion Stafford
+Max Stack Size: 40831
+End Stack Size: 10
+Stack Resized: 42
+######################################################################
