@@ -3,7 +3,7 @@ Advanced Algorithms MSU Texas
 
 ## Semeion Stafford
 #### Repo: 3013 Algorithms Repo
-#### Email: semeionsta@hotmail.com
+#### Email: semeionjs@gmail.com
 #### Website: https://github.com/semeionj
 
 #### IMAGE:
